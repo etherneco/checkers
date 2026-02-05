@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dames</string>
+    <string name="new_game">Nouvelle partie</string>
+    <string name="capture_required">Prise obligatoire</string>
+    <string name="player_white">Blanc</string>
+    <string name="player_black">Noir</string>
+    <string name="turn_text">Coup : %1$s</string>
+    <string name="turn_label">Tour : %1$s</string>
+    <string name="settings_title">Paramètres du jeu</string>
+    <string name="start_white">Départ : Blanc</string>
+    <string name="start_black">Départ : Noir</string>
+    <string name="vs_computer">Jouer contre l\'ordinateur (l\'ordinateur joue les noirs)</string>
+    <string name="drawer_open">Ouvrir le menu</string>
+    <string name="drawer_close">Fermer le menu</string>
+    <string name="winner_text">Gagnant : %1$s</string>
+    <string name="draw_text">Match nul</string>
+    <string name="menu_subtitle">Menu du jeu</string>
+    <string name="menu_start">Démarrer la partie</string>
+    <string name="menu_continue">Continuer la partie</string>
+    <string name="menu_how_to_play">Comment jouer</string>
+    <string name="menu_image_desc">Photo d\'un plateau de dames</string>
+    <string name="how_to_play_title">Comment jouer</string>
+    <string name="how_to_play_text">But : capturer toutes les pièces de l\'adversaire ou bloquer ses mouvements.\nDéplacement : un pion avance en diagonale d\'une case.\nPrise : si une prise est possible, elle est obligatoire.\nDame : en atteignant la dernière rangée, le pion devient une dame et se déplace en diagonale sur plusieurs cases.</string>
+</resources>

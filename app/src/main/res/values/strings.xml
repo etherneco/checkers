@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">warcaby</string>
+    <string name="new_game">Nowa gra</string>
+    <string name="capture_required">Obowiązkowe bicie</string>
+    <string name="player_white">Biały</string>
+    <string name="player_black">Czarny</string>
+    <string name="turn_text">Ruch: %1$s</string>
+    <string name="turn_label">Tura: %1$s</string>
+    <string name="settings_title">Ustawienia gry</string>
+    <string name="start_white">Start: Biały</string>
+    <string name="start_black">Start: Czarny</string>
+    <string name="vs_computer">Graj z komputerem (komputer gra czarnymi)</string>
+    <string name="drawer_open">Otwórz menu</string>
+    <string name="drawer_close">Zamknij menu</string>
+    <string name="winner_text">Wygrywa: %1$s</string>
+    <string name="draw_text">Remis</string>
+    <string name="menu_subtitle">Menu gry</string>
+    <string name="menu_start">Start gry</string>
+    <string name="menu_continue">Kontynuuj grę</string>
+    <string name="menu_how_to_play">Jak grać</string>
+    <string name="menu_image_desc">Zdjęcie planszy do warcabów</string>
+    <string name="how_to_play_title">Jak grać</string>
+    <string name="how_to_play_text">Cel gry: zbij wszystkie pionki przeciwnika lub zablokuj mu ruchy.\nRuch: pionek porusza się po przekątnej o jedno pole do przodu.\nBicie: jeśli możliwe, bicie jest obowiązkowe.\nDamka: po wejściu na ostatni rząd pionek staje się damką i porusza się po przekątnej na dowolną liczbę pól.</string>
+</resources>

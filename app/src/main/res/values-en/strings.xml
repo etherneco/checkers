@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Checkers</string>
+    <string name="new_game">New game</string>
+    <string name="capture_required">Mandatory capture</string>
+    <string name="player_white">White</string>
+    <string name="player_black">Black</string>
+    <string name="turn_text">Move: %1$s</string>
+    <string name="turn_label">Turn: %1$s</string>
+    <string name="settings_title">Game settings</string>
+    <string name="start_white">Start: White</string>
+    <string name="start_black">Start: Black</string>
+    <string name="vs_computer">Play vs computer (computer plays black)</string>
+    <string name="drawer_open">Open menu</string>
+    <string name="drawer_close">Close menu</string>
+    <string name="winner_text">Winner: %1$s</string>
+    <string name="draw_text">Draw</string>
+    <string name="menu_subtitle">Game menu</string>
+    <string name="menu_start">Start game</string>
+    <string name="menu_continue">Continue game</string>
+    <string name="menu_how_to_play">How to play</string>
+    <string name="menu_image_desc">Checkers board photo</string>
+    <string name="how_to_play_title">How to play</string>
+    <string name="how_to_play_text">Goal: capture all opponent pieces or block their moves.\nMove: a piece moves diagonally forward by one square.\nCapture: if a capture is available, it is mandatory.\nKing: reaching the last row crowns the piece; a king moves diagonally any distance.</string>
+</resources>

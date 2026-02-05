@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="board_light">#FFE6DCC7</color>
+    <color name="board_dark">#FF8A5A3D</color>
+    <color name="piece_white">#FFF5F0E8</color>
+    <color name="piece_black">#FF2B1D16</color>
+    <color name="piece_stroke">#FFB9ADA1</color>
+    <color name="piece_stroke_dark">#FF12100D</color>
+    <color name="king_ring">#FFD9B45B</color>
+    <color name="highlight_move">#66F2C94C</color>
+    <color name="highlight_selected">#66F2994A</color>
+    <color name="capture_text">#FFB64C2D</color>
+</resources>
